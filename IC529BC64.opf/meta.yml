@@ -1,0 +1,38 @@
+id: IC529BC64
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T00:28:31.526016'
+last_modified: '2022-06-19T00:28:31.526061'
+parser: null
+source_metadata:
+  title: 'The gSan yig of Jam mgon A mes zhabs (1597–1659), part II: Teachings from
+    Grags pa blo gros (1563-1617)'
+  author: ཨ་མྱེས་ཞབས་ངག་དབང་ཀུན་དགའ་བསོད་ནམས།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2015-07-05);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf), བསམ་གྲུབ། (Dharamsala) (sdr)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:བསམ་གྲུབ། (sdr)
+  text_witnesses: https://sakyaresearch.org/sources/602
+  bases:
+    44bd:
+      title: 'The gSan yig of Jam mgon A mes zhabs (1597–1659), part II: Teachings
+        from Grags pa blo gros (1563-1617)'
+      order: 1
+      base_file: 44bd.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
